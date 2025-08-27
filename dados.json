@@ -1,0 +1,48 @@
+[
+    {
+        "produtos": {
+            "prod123": "Notebook Dell",
+            "prod124": "Tablet samsung",
+            "prod125": "Smartphone Iphone",
+            "prod126": "Smart TV Samsung",
+            "prod127": "Fone Bluetooth JBL"
+        }
+    },
+    {
+        "vendedor":{
+            "vend456": "Bras",
+            "vend457": "Cubas",
+            "vend458": "Shibata da Silva",
+            "vend459": "Danilo Duarti ",
+            "vend460": "Amazon"
+        }
+    },
+    {
+        "preco": {
+            "preco789": "2550.00",
+            "preco790": "3199.00",
+            "preco791": "1999.00",
+            "preco792": "5999.00",
+            "preco793": "399.00"
+        }
+    },
+    {
+        "imagemProdutos":{
+            "image001":"<img src='img/notebook.webp' width=300px'>",
+            "image002":"<img src='img/tablet.webp' width=300px'>",
+            "image003":"<img src='img/smartphone.webp' width=300px'>",
+            "image004":"<img src='img/smarttv.webp' width=300px'>",
+            "image005":"<img src='img/fone.webp' width=300px'>"
+        }
+    },
+    {
+        "clientes":{
+            "client001":"Hilux Santos",
+            "client002":"Saveiro da Silva",
+            "client003":"Fiesta Junior",
+            "client004":"Corola Vieira",
+            "client005":"Tucson Oliveira"
+
+        }
+    }
+]

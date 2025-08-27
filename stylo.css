@@ -1,0 +1,21 @@
+h1{
+    color:greenyellow
+}
+h2{
+    color:rgb(4, 122, 0)
+}
+#preco{
+    color: rebeccapurple;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#preco:hover{
+    color: aquamarine;
+}
+botao:after{
+margin-left: 500px;
+}
+.botao{
+    background-color: green;
+    border: none;
+    color: aliceblue;
+}
